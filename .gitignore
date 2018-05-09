@@ -1,0 +1,9 @@
+.coverage*
+.pytest_cache/*
+*.pyc
+*/__pycache__/
+*.sw[abp]
+*.egg-info/
+.tox/
+env/
+coverage*
